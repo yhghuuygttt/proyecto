@@ -46,9 +46,6 @@ http://premierchile.shop:8080/Jorge1/Jorgegandara/16158
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh8H-mu9a_WbdhyVIFxBS-MBNu6FpwUod4zg&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| telefe
 http://1play.cool:25461/3362311362/4831f6f74e/163708
 
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh8H-mu9a_WbdhyVIFxBS-MBNu6FpwUod4zg&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| telefehitspluto
-https://r.mjh.nz/PlutoTV/5de91cf02fc07c0009910465-alt.m3u8
-
 #EXTINF:-1 tvg-logo="  " group-title="⭐️ Argentina",🇦🇷| canal 10 cordoba
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 
@@ -196,8 +193,6 @@ http://185.150.190.225:16468/ts
 http://185.150.190.225:16476/.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-t9hyBnxLrNhCg3T8VUbjFgGBwwpIEWM0gw&usqp=CAU " group-title="⚽️ Futbol Brasil", |Sport TV Premiere 5
 http://185.150.190.225:16482/.ts
-#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png  " group-title="⚽️ Futbol Brasil",|ESPN 4
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZ5UTCOeWgHCSzTtzIG74Qrl-0duXJhd0Rg&usqp=CAU " group-title="⚽️Dazn Eventos ⚽️",DAZN 1 opc2
@@ -573,8 +568,7 @@ http://pro.boxdigital.org:8080/qYmazhXcMt/29U3yUvBXF/100107
 http://pro.boxdigital.org:8080/live/tinoco/QRe2QbFyQg/181842.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwWIvd6k63Amy4juhuAJvKh7tkX_Ca7apbQ&usqp=CAU " group-title="⚽ Deportes Chile",  espn 2 chile
 http://pro.boxdigital.org:8080/live/tinoco/QRe2QbFyQg/181844.m3u8
-#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png " group-title="⚽️ Deportes Chile",  espn 4
-http://ch3.dbox.lat:25461/live/tinoco/QRe2QbFyQg/73109.m3u8?token=ShdQVkdbFgIWVggACVcIBQ5TBFMDBFcEVFcLVVMDVlcDA10BBgoCXgcXFRJLQEpTWV0+XgUXWwVVUAgKSRQXFVRHZ15QEQ4aAAMNAA0WFBRMWQxSQw9RHkQRUVdHDEBXBg0LBxYfFl1MQVxCVlVUaVxVF14CUEMICBRUX0kUDQhuUV1aVV1QGg4XCBIUFlFFSBJbWRRZDR5EA1FHF1cWAxMPGgQFBwwaGBdaX01aTERBElsVIGdDHkQEQEcAWBEPXlsaDRZeB00MFxUSUUdnRF1DFUUEVAxXFEMCEVQUTkRcVEBoV1xaVlFWTVlXWksUAhJQB1EXTRALDlZaEVkQOUFcXBUOEQUPBAwLEkU=
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOzUbC3TwMglW0YBja9vOPLa9HhrJo4pBTAw&usqp=CAU" group-title="⚽ Deportes Mexico",  FOX SPORTS  1 (México)
