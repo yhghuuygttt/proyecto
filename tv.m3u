@@ -591,8 +591,8 @@ http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/1069865
 http://tv.nousiptv.com:8080/live/943333/fatimar/53372.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="mexico azteca deportes" tvg-logo="" group-title="⚽ Deportes Mexico",  azteca deportes (México)
 http://tilinki.com:25461/arts9342/aOoP4/115894
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZhooTjS95cU_5z6UWVIJh-0DBHy-aA7RIoQ&usqp=CAU" group-title="⚽ Deportes Mexico",  FOX SPORTS 2 (México)
-
+#EXTINF:-1 tvg-id="" tvg-name="tudn deportes" tvg-logo="" group-title="⚽ Deportes Mexico",  tudn (México)
+http://tilinki.com:25461/arts9342/aOoP4/34
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCosoBzW18TLTPkvgRBWThJdi-iVUZamVi2Q&usqp=CAU" group-title="⚽ Deportes Mexico",  FOX SPORTS 3 (México)
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCosoBzW18TLTPkvgRBWThJdi-iVUZamVi2Q&usqp=CAU" group-title="⚽ Deportes Mexico",  FOX SPORTS PREMIUM  (México)
