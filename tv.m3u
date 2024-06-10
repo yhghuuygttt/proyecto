@@ -183,18 +183,6 @@ https://edge-live02-mun.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/F
 
 
 
-#EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/9/9e/SporTV_2021_Symbol.svg/revision/latest/scale-to-width-down/250?cb=20211111033822" group-title="⚽️ Futbol Brasil", |Sport TV Premiere 1
-http://50.7.22.154:8000/play/728WHK42E3/nphpCTQNaQp/759525.ts?token=H0EMV0RQRl8UVwkDUgQACVUAUgQNCAVSVwRSAFpZAgQFAAUDVFpcUVNDFRZAFkBdBw48WFASDVMADlMKVhQXRhcGFmleXEZfFFMPAgdRAhpKQRdYWVUVXgQAVwtVCAwLUVRIFEdRAEcMD0xYX04QXR4XBkNaUVs7UVIQUQBdFwkKFghaGxoLC2kFXFlSDFYaXEFSExgSXhdFFVxWFlRZH0YBDUJFWRAAFFtXQV8OHhoFDBZfQEJORg8VKHRBFBdWHBcBWERRCwsUWxtAQEAeGg8QPENRQ0MWUFYLXREaDxFUQUgUWlkcOlUOV1pWAUZRCQ0QEw4SBUYZFQtXDVFBXBY8FF9TGl4LQw1VSQ==
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-t9hyBnxLrNhCg3T8VUbjFgGBwwpIEWM0gw&usqp=CAU" group-title="⚽️ Futbol Brasil", |Sport TV Premiere 2
-http://185.150.190.225:16472/.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-t9hyBnxLrNhCg3T8VUbjFgGBwwpIEWM0gw&usqp=CAU " group-title="⚽️ Futbol Brasil", |Sport TV Premiere 3
-http://185.150.190.225:16468/ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-t9hyBnxLrNhCg3T8VUbjFgGBwwpIEWM0gw&usqp=CAU " group-title="⚽️ Futbol Brasil", |Sport TV Premiere 4
-http://185.150.190.225:16476/.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-t9hyBnxLrNhCg3T8VUbjFgGBwwpIEWM0gw&usqp=CAU " group-title="⚽️ Futbol Brasil", |Sport TV Premiere 5
-http://185.150.190.225:16482/.ts
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZ5UTCOeWgHCSzTtzIG74Qrl-0duXJhd0Rg&usqp=CAU " group-title="⚽️Dazn Eventos ⚽️",DAZN 1 opc2
 http://887548118458228385.napgoto413.xyz:80/play/fe928915/hU4Gvb7cU33E/228385.ts
 
@@ -262,18 +250,6 @@ http://sdmx.vip:8080/belpley/sYqKZQrTZa/155179
 
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMCNTZIB82WMcipEi-rLRLQiH9Q9D-Vecjg&usqp=CAU " group-title="⭐️ Cine PREMIUM", UNIVERSAL REALITY 
 http://xtream.lat:8880/Alex2023/Alex2023/73
-
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAtIapQyTDJduffE9gL9GRkgA52PGIhpXgMw&usqp=CAU " group-title="⭐️hbo 4k", hbo 2 4k
-http://gustvplay.com:8080/pandconv3/HTVFuZ5PePNG/218716
-
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE0uAbML0oYOyt1M8qntLLgFgb3vVRfqDJYw&usqp=CAU " group-title="⭐️hbo 4k", hbo family 4k
-http://gustvplay.com:8080/pandconv3/HTVFuZ5PePNG/218717
-
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG0KZUii5TK2u2eQxkEAilnmc8EuzAW7jCGQ&usqp=CAU " group-title="⭐️hbo 4k", hbo extreme 4k
-http://gustvplay.com:8080/pandconv3/HTVFuZ5PePNG/218727
-
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlGZtR5LRUKAO59fm9dnmnrx2Wv2kRto-GQ&usqp=CAU " group-title="⭐️hbo 4k", hbo + 4k
-http://gustvplay.com:8080/pandconv3/HTVFuZ5PePNG/218726
 
 
 
