@@ -495,6 +495,10 @@ http://527075722741320792.ofds0328.xyz:80/play/ja810198/NT3W3crnGm/320792.ts
 http://985511922102646234.tkop413.xyz:80/play/ja810198/NT3W3crnGm/646234.ts
 #EXTINF:-1 tvg-logo=" " group-title="⚽ Deportes españa", la 1 euro
 http://pepito.pro:8080/live/34681325053/681325053/5253.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="⚽ Deportes españa", la 1 euro opc2
+http://195.154.183.210:25461/live/fernandocr77/7kno9OGNtL/9204.m3u8?token=GRsNUBBYFgkUUwYGWwRbVgYJWwEGA1QHAwZTAlEGBAAEXAYEUFYGAgMUGxAQRhAEVFQ8DFZEWVpXBlVIRkFGVBBmDFVBChYCBAQEAEEeQBVcVAZHCFZPQRVfBUZeFgcGUwxHHUFVTEdTRFlTD20GBENQAAAQXA0WCVpNRgtaalUHVARfBxIOEQYUGxAKQRJDD1cWCV5KQQEMQhMFEFEXC0APXQNTEhgRVVlCXBdAG0MPGyI3EEpBBh1CBAoXXVpfQANHXFBFDBEaFF5BPEAHEkFLBgRfAxFBXxRRRkgWWFAaZgZeDV5RUEJfWFwQEFhDBxtPR18JDQoRWRM7FF1RE1gbUAlSBhZO
+#EXTINF:-1 tvg-logo=" " group-title="⚽ Deportes españa", la 1 euro opc3
+http://dns123.homeip.net:8000/live/fernandocr77/7kno9OGNtL/998.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOTn5jykauW0smu6OgpHSvWCpFVT03S2wkbw&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| chilevisión 
