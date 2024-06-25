@@ -207,14 +207,9 @@ http://lobo-tv.live:8080/belpley/sYqKZQrTZa/201151
 
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="24/7 INFANTILES", Los Tres Chiflados
-https://r.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" group-title="24/7 INFANTILES",  Nickelodeon iCarly
 https://r.mjh.nz/PlutoTV/620ff0a01f9e8700076c6f9d-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" group-title="24/7 INFANTILES", Kenan y Kel
-https://r.mjh.nz/PlutoTV/5fcea93ffcf94500071c4b2f-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" group-title="24/7 INFANTILES", Teen
 https://r.mjh.nz/PlutoTV/5dd6de52b9914200091f047a-alt.m3u8
@@ -242,9 +237,6 @@ https://r.mjh.nz/PlutoTV/5dcde2ac4bc6c500094ab45b-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" group-title="24/7 INFANTILES", Barney
 https://r.mjh.nz/PlutoTV/5f29ada4bdaebd000708d49d-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png" group-title="24/7 INFANTILES", Babar
-https://r.mjh.nz/PlutoTV/5e67e20c93312100076f3ffe-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" group-title="24/7 INFANTILES", El Reino Infantil
 https://r.mjh.nz/PlutoTV/5f4d3d06fb60d8000781fce8-alt.m3u8
