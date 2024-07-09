@@ -9,6 +9,124 @@
 #EXTINF:-1 tvg-logo="  " group-title="⭐️ eventos",
 
 
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvt1s5v/DTS.png" group-title="⚽ Copa América USA 2024 ⚽", Directv - Copa America 2024
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/744956.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jzg24dG/M-Copa-America.png" group-title="⚽ Copa América USA 2024 ⚽", M+ Copa América 1
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/741273.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JqQ07t4/M-Copa-America2.png" group-title="⚽ Copa América USA 2024 ⚽", M+ Copa América 2
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/741274.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="⚽ Copa América USA 2024 ⚽", Argentina - TV Pública
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/651263.m3u8
+
+#EXTINF:-1 tvg-logo="https://librefutbol.su/wp-content/uploads/2022/12/tyc.jpg" group-title="⚽ Copa América USA 2024 ⚽", Argentina - TyC Sports
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/651262.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Telefe_Logo.svg/1280px-Telefe_Logo.svg.png" group-title="⚽ Copa América USA 2024 ⚽", Argentina - TELEFE
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/741205.m3u8
+
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/M_Plus.png" group-title="⚽ Copa América USA 2024 ⚽", España - Movistar Plus+
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/741210.m3u8
+
+#EXTINF:-1 tvg-logo="https://explosaotricolor.com.br/wp-content/uploads/2022/11/SporTV-New-Logo.jpg" group-title="⚽ Copa América USA 2024 ⚽", Brasil - Sportv
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/650103.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/GloboRJ.br.png" group-title="⚽ Copa América USA 2024 ⚽", Brasil - TV Globo
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/741206.m3u8
+
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/bolivia/unitel.png" group-title="⚽ Copa América USA 2024 ⚽", Bolivia - Unitel
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/651259.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1200px-TSN_Logo.svg.png" group-title="⚽ Copa América USA 2024 ⚽", Canada - TSN 4
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/741275.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png" group-title="⚽ Copa América USA 2024 ⚽", Chile - Canal 13
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/741207.m3u8
+
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="⚽ Copa América USA 2024 ⚽", Chile - Chilevision
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/651281.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="⚽ Copa América USA 2024 ⚽", Colombia - Caracol
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/651313.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_RCN_Televisi%C3%B3n.png/1200px-Logo_RCN_Televisi%C3%B3n.png" group-title="⚽ Copa América USA 2024 ⚽", Colombia - RCN
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/651314.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="⚽ Copa América USA 2024 ⚽", Colombia - Win Sports
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/651315.m3u8
+
+#EXTINF:-1 tvg-logo="https://bolavip.com/__export/1583187794658/sites/bolavip/img/2020/03/02/win_sports_crop1583187794108.png_242310155.png" group-title="⚽ Copa América USA 2024 ⚽", Colombia - Win Sports +
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/744165.m3u8
+
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/LAT_centroamerica/repretel.png" group-title="⚽ Copa América USA 2024 ⚽", Costa Rica - Repretel 6 HD
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/172294.m3u8
+
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/LAT_centroamerica/cr_teletica7.png" group-title="⚽ Copa América USA 2024 ⚽", Costa Rica - Teletica 7 FHD
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/4633.m3u8
+
+#EXTINF:-1 tvg-logo="https://mundoxtrim.com/wp-content/uploads/2024/02/ECDF.png" group-title="⚽ Copa América USA 2024 ⚽", Ecuador - ECDF
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/651307.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/1200px-Ecuavisa_Logo_2019.png" group-title="⚽ Copa América USA 2024 ⚽", Ecuador - Ecuavisa
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/651260.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png" group-title="⚽ Copa América USA 2024 ⚽", Estados Unidos - TUDN
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/741269.m3u8
+
+#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="⚽ Copa América USA 2024 ⚽", Estados Unidos - Univision
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/651261.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvgolatino.com:8080/images/ae45b7a60f820f365773e814e6d10a3f.png" group-title="⚽ Copa América USA 2024 ⚽", Estados Unidos - FS1
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/741277.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c0/Sportitalia_Logo.JPG/260px-Sportitalia_Logo.JPG" group-title="⚽ Copa América USA 2024 ⚽", Italia - Sportitalia
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/741208.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/965px-Logo_Azteca_7_2011.svg.png" group-title="⚽ Copa América USA 2024 ⚽", Mexico - Azteca 7
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/659512.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Canal-5-Mexico-en-directo-Online.png" group-title="⚽ Copa América USA 2024 ⚽", México: Canal 5
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/744614.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jzg24dG/M-Copa-America.png" group-title="⚽ Copa América USA 2024 ⚽", M+ Copa América 1
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/741273.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JqQ07t4/M-Copa-America2.png" group-title="⚽ Copa América USA 2024 ⚽", M+ Copa América 2
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/741274.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="⚽ Copa América USA 2024 ⚽", Argentina - TV Pública
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/651263.m3u8
+
+#EXTINF:-1 tvg-logo="https://librefutbol.su/wp-content/uploads/2022/12/tyc.jpg" group-title="⚽ Copa América USA 2024 ⚽", Argentina - TyC Sports
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/651262.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Telefe_Logo.svg/1280px-Telefe_Logo.svg.png" group-title="⚽ Copa América USA 2024 ⚽", Argentina - TELEFE
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/741205.m3u8
+
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/M_Plus.png" group-title="⚽ Copa América USA 2024 ⚽", España - Movistar Plus+
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/741210.m3u8
+
+#EXTINF:-1 tvg-logo="https://explosaotricolor.com.br/wp-content/uploads/2022/11/SporTV-New-Logo.jpg" group-title="⚽ Copa América USA 2024 ⚽", Brasil - Sportv
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/650103.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/GloboRJ.br.png" group-title="⚽ Copa América USA 2024 ⚽", Brasil - TV Globo
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/741206.m3u8
+
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/bolivia/unitel.png" group-title="⚽ Copa América USA 2024 ⚽", Bolivia - Unitel
+http://titanpro.cc:2095/WillyLerman/T9WL42xBryaa/651259.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/OdhF7ym.png " group-title="⭐️ Argentina",🇦🇷| a24
 http://45.143.223.86:2095/WillyLerman/T9WL42xBryaa/256.m3u8
