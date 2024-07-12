@@ -147,19 +147,6 @@ https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo=" https://media.c5n.com/p/b687a1d180c4735fd3c63d5a0ce77839/adjuntos/326/imagenes/000/221/0000221658/790x0/smart/gran-hermano.jpg " group-title="👁GRAN HERMANO👁",  GH 24hs
-http://twomonkeys.live:80/Albert123/Albert123/1039454.m3u8
-
-#EXTINF:-1 tvg-logo=" https://media.c5n.com/p/b687a1d180c4735fd3c63d5a0ce77839/adjuntos/326/imagenes/000/221/0000221658/790x0/smart/gran-hermano.jpg " group-title="👁GRAN HERMANO👁",  GH camara 1
-http://tv.proyectox.vip:8080/live/FabianLugo24/Arizona2025/392399.ts
-
-#EXTINF:-1 tvg-logo=" https://media.c5n.com/p/b687a1d180c4735fd3c63d5a0ce77839/adjuntos/326/imagenes/000/221/0000221658/790x0/smart/gran-hermano.jpg " group-title="👁GRAN HERMANO👁",  GH camara 2
-http://twomonkeys.live:80/Carlos14/Carlos14/1039456.m3u8
-
-#EXTINF:-1 tvg-logo=" https://media.c5n.com/p/b687a1d180c4735fd3c63d5a0ce77839/adjuntos/326/imagenes/000/221/0000221658/790x0/smart/gran-hermano.jpg "  group-title="👁GRAN HERMANO👁",  GH camara 3
-http://twomonkeys.live:80/Carlos14/Carlos14/1039457.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOTn5jykauW0smu6OgpHSvWCpFVT03S2wkbw&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| chilevisión 
 http://novared.pro:8080/motors/checkmotors131021/55273
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWmdOz8X_4U7qaaeGRPQFIIqGBm9ZcRMVUrQ&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| teletrak
@@ -668,36 +655,7 @@ http://tilinki.com:25461/arts9342/aOoP4/34
 
 
 
- #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVsWSXvhlopGYyXsITz-P65tdxwPlkWABcw&usqp=CAU " group-title="⚽ apple tv/mls ⚽", mls eventos 1
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/234843
- #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVsWSXvhlopGYyXsITz-P65tdxwPlkWABcw&usqp=CAU " group-title="⚽ apple tv/mls ⚽", mls eventos 2
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/234844
- #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVsWSXvhlopGYyXsITz-P65tdxwPlkWABcw&usqp=CAU " group-title="⚽ apple tv/mls ⚽", mls eventos 3
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/234845
- #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVsWSXvhlopGYyXsITz-P65tdxwPlkWABcw&usqp=CAU " group-title="⚽ apple tv/mls ⚽", mls eventos 4
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/234846
- #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVsWSXvhlopGYyXsITz-P65tdxwPlkWABcw&usqp=CAU " group-title="⚽ apple tv/mls ⚽", mls eventos 5
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/234847
- #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVsWSXvhlopGYyXsITz-P65tdxwPlkWABcw&usqp=CAU " group-title="⚽ apple tv/mls ⚽", mls eventos 6
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/234848
- #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVsWSXvhlopGYyXsITz-P65tdxwPlkWABcw&usqp=CAU " group-title="⚽ apple tv/mls ⚽", mls eventos 7
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/234849
- #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVsWSXvhlopGYyXsITz-P65tdxwPlkWABcw&usqp=CAU " group-title="⚽ apple tv/mls ⚽", mls eventos 8
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/234850
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVsWSXvhlopGYyXsITz-P65tdxwPlkWABcw&usqp=CAU " group-title="⚽ apple tv/mls ⚽", mls eventos 9
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/234851
- #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVsWSXvhlopGYyXsITz-P65tdxwPlkWABcw&usqp=CAU " group-title="⚽ apple tv/mls ⚽", mls eventos 10
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/234852
- #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVsWSXvhlopGYyXsITz-P65tdxwPlkWABcw&usqp=CAU " group-title="⚽ apple tv/mls ⚽", mls eventos 11
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/234853
- #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVsWSXvhlopGYyXsITz-P65tdxwPlkWABcw&usqp=CAU " group-title="⚽ apple tv/mls ⚽", mls eventos 12
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/234854
- #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVsWSXvhlopGYyXsITz-P65tdxwPlkWABcw&usqp=CAU " group-title="⚽ apple tv/mls ⚽", mls eventos 13
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/234855
- #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVsWSXvhlopGYyXsITz-P65tdxwPlkWABcw&usqp=CAU " group-title="⚽ apple tv/mls ⚽", mls eventos 14
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/234856
- #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVsWSXvhlopGYyXsITz-P65tdxwPlkWABcw&usqp=CAU " group-title="⚽ apple tv/mls ⚽", mls eventos 15
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/234857
+
 
 
 
