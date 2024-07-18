@@ -173,14 +173,10 @@ http://iptvhogar.club:25461/live/manuelgamboa/54321/294.m3u8
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/155176
 #EXTINF:-1 tvg-id="" tvg-name="P | Paramount+ Presenta" tvg-logo="http://descargas.podzone.net/logos/-AXN.png" group-title="⭐️ Cine ",CINE| AXN
 http://51.79.80.194:25461/live/manuelgamboa/54321/228.m3u8?token=GBBQUUJaEA9AAAlYVA0IDlJQA1QABgUCVVVQU1QFU1QBAQBWVAdUU1IbHBtCQEtcBF9pXwBHDAUDWR5HFhBUEzxbXBILEAoCUwkSFRNAUFQAEAwGSEdGXlVDCEdSVgRTUBAUElRKRlAQV1FVblBcTwxRUxReC0NbXU0QCg08VQQOU1ZUEwgQBUAVElBCRBsDC0daWkhHVF5FE1MRBkELQ1IACwcTHhBWDUxeTUNNGwNHc2QUSEdTT0UEXBYKDF9DWRBVA0QKEBlAUENmQ1FKTRdXV1sBFxQNE1EQSUEOUBk8UVdeX1dRQQtWXkoTDhsLRx4UWwsLX0NeE20VCgcTW0EDDQEABhBI
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlOfsSaEw17zDmR1V_eX4JVyq9qrxp40-j8g&usqp=CAU" group-title="⭐️ Cine ",CINE| AMC
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/148717
 #EXTINF:-1 tvg-id="" tvg-name="P | Paramount+ Presenta" tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="⭐️ Cine ",CINE| Paramount
 http://iptvhogar.club:25461/live/Jonathan_Cabeza/3774389217/282.m3u8
 #EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="2MB | Cinecanal"  tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="⭐️ Cine ",CINE| Cinecanal
 http://mstrtv.com:25461/wxBvF2MsSd/b9c4ca7904abef7791146b2b95d89c41/30671  
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQMU7s2BFWuCWTz5KquynUbWKVvyt_bkFzMA&usqp=CAU " group-title="⭐️ Cine ",CINE| de película clásico 
-http://europass.site:8080/Exgardo2022/ZeCbag12Rp/1449
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSi7SbFmeNZkV9LE5RyCfep3lwep5AavQJWw&usqp=CAU" group-title="⭐️ Cine ",CINE| Warner
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/148810
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy9_23qztuHYhlclfjxPGt_SZcu7HDAv0VuQ&usqp=CAU" group-title="⭐️ Cine ",CINE| sony movies
@@ -393,12 +389,6 @@ http://local.hucemas.pro:88/live/raulpaco1238/raulpaco9983/11.ts
 http://527075722741320792.ofds0328.xyz:80/play/ja810198/NT3W3crnGm/320792.ts
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIY1rkjN7EWp7a8Tr9j8_alFV93L6k4-oE_w&usqp=CAU" group-title="⚽ Deportes españa", Movistar plus  +
 http://985511922102646234.tkop413.xyz:80/play/ja810198/NT3W3crnGm/646234.ts
-#EXTINF:-1 tvg-logo=" " group-title="⚽ Deportes españa", la 1 euro
-http://pepito.pro:8080/live/34681325053/681325053/5253.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="⚽ Deportes españa", la 1 euro opc2
-http://195.154.183.210:25461/live/fernandocr77/7kno9OGNtL/9204.m3u8?token=GRsNUBBYFgkUUwYGWwRbVgYJWwEGA1QHAwZTAlEGBAAEXAYEUFYGAgMUGxAQRhAEVFQ8DFZEWVpXBlVIRkFGVBBmDFVBChYCBAQEAEEeQBVcVAZHCFZPQRVfBUZeFgcGUwxHHUFVTEdTRFlTD20GBENQAAAQXA0WCVpNRgtaalUHVARfBxIOEQYUGxAKQRJDD1cWCV5KQQEMQhMFEFEXC0APXQNTEhgRVVlCXBdAG0MPGyI3EEpBBh1CBAoXXVpfQANHXFBFDBEaFF5BPEAHEkFLBgRfAxFBXxRRRkgWWFAaZgZeDV5RUEJfWFwQEFhDBxtPR18JDQoRWRM7FF1RE1gbUAlSBhZO
-#EXTINF:-1 tvg-logo=" " group-title="⚽ Deportes españa", la 1 euro opc3
-http://dns123.homeip.net:8000/live/fernandocr77/7kno9OGNtL/998.m3u8
 
 
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsDmpWpg6IgDzCc0QzHfvxLGjWHy_66Q5yIQ&usqp=CAU " group-title="⚽ Deportes Chile", Tnt sports (chile)
@@ -433,10 +423,6 @@ http://tilinki.com:25461/timl4243/g80av/19
 http://tilinki.com:25461/jhth10120/ruVwc/20
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1dBIigdVLzlfRRAIBISkf7k0k4E_3KvU_bw&usqp=CAU" group-title="⚽ Deportes Mexico", deportes ufc 
 http://tv.nousiptv.com:8080/live/943333/fatimar/53372.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mexico azteca deportes" tvg-logo="" group-title="⚽ Deportes Mexico",  azteca deportes (México)
-http://tilinki.com:25461/arts9342/aOoP4/115894
-#EXTINF:-1 tvg-id="" tvg-name="tudn deportes" tvg-logo="" group-title="⚽ Deportes Mexico",  tudn (México)
-http://tilinki.com:25461/arts9342/aOoP4/34
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCosoBzW18TLTPkvgRBWThJdi-iVUZamVi2Q&usqp=CAU" group-title="⚽ Deportes Mexico",  FOX SPORTS 3 (México)
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCosoBzW18TLTPkvgRBWThJdi-iVUZamVi2Q&usqp=CAU" group-title="⚽ Deportes Mexico",  FOX SPORTS PREMIUM  (México)
