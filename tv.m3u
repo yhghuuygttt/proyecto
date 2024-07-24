@@ -10,6 +10,38 @@
 #EXTINF:-1 tvg-logo="  " group-title="⭐️ eventos",
 
 
+#EXTINF:-1 tvg-logo="http://open.universof.com:25461/images/f965eb3e6ef2a1ec4226fd62ec75be1b.png" group-title="* JUEGOS OLIMPICOS *",  JJ.OO - 1
+http://open.vivesat.net:25461/live/Cristina.seguros/22347h/32489.m3u8
+
+#EXTINF:-1 tvg-logo="http://open.universof.com:25461/images/34edfe4b9a1fc98f5ee354cfb9efbe70.png" group-title="* JUEGOS OLIMPICOS *",  JJ.OO - 4K UHD
+http://open.vivesat.net:25461/live/Cristina.seguros/22347h/32490.m3u8
+
+#EXTINF:-1 tvg-logo="http://open.universof.com:25461/images/f25c655f7d3425dc5569afd90b0042ba.png" group-title="* JUEGOS OLIMPICOS *",  JJ.OO - 2
+http://open.vivesat.net:25461/live/Cristina.seguros/22347h/32504.m3u8
+
+#EXTINF:-1 tvg-logo="http://open.universof.com:25461/images/8acad892273b92ec294e7cedd9798a79.png" group-title="* JUEGOS OLIMPICOS *",  JJ.OO - 3
+http://open.vivesat.net:25461/live/Cristina.seguros/22347h/32491.m3u8
+
+#EXTINF:-1 tvg-logo="http://open.universof.com:25461/images/497522a3a8966169564928d612a1cb25.png" group-title="* JUEGOS OLIMPICOS *",  JJ.OO - 4
+http://open.vivesat.net:25461/live/Cristina.seguros/22347h/32492.m3u8
+
+#EXTINF:-1 tvg-logo="http://open.universof.com:25461/images/513c8f41fb1b4a850d597c0ac5745334.png" group-title="* JUEGOS OLIMPICOS *",  JJ.OO - 5
+http://open.vivesat.net:25461/live/Cristina.seguros/22347h/32493.m3u8
+
+#EXTINF:-1 tvg-logo="http://open.universof.com:25461/images/57da104f2e20f35db15b8d0512a26a8a.png" group-title="* JUEGOS OLIMPICOS *",  JJ.OO - 6
+http://open.vivesat.net:25461/live/Cristina.seguros/22347h/32494.m3u8
+
+#EXTINF:-1 tvg-logo="http://open.universof.com:25461/images/5ef6f5412c26c81f28149b5921026c99.png" group-title="* JUEGOS OLIMPICOS *",  JJ.OO - 7
+http://open.vivesat.net:25461/live/Cristina.seguros/22347h/32495.m3u8
+
+#EXTINF:-1 tvg-logo="http://open.universof.com:25461/images/d14af38a3e73d08370e1753b333b1049.png" group-title="* JUEGOS OLIMPICOS *",  JJ.OO - 8
+http://open.vivesat.net:25461/live/Cristina.seguros/22347h/32496.m3u8
+
+#EXTINF:-1 tvg-logo="http://open.universof.com:25461/images/599deb5ad4550d6e8b3f8a77acd2fb27.png" group-title="* JUEGOS OLIMPICOS *",  JJ.OO - 9
+http://open.vivesat.net:25461/live/Cristina.seguros/22347h/32497.m3u8
+
+
+
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/OdhF7ym.png " group-title="⭐️ Argentina",🇦🇷| a24
 http://premierchile.shop:8080/986516087tv/fo9aul/15813
 
