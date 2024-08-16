@@ -1,4 +1,4 @@
-se#EXTINF:-1 tvg-logo="  " group-title="⭐️ eventos",
+#EXTINF:-1 tvg-logo="  " group-title="⭐️ eventos",
 
 #EXTINF:-1 tvg-logo="  " group-title="⭐️ eventos",
 
@@ -291,7 +291,7 @@ http://pepito.pro:8080/live/34681325053/681325053/5329.ts
 http://pepito.pro:8080/live/34681325053/681325053/5330.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS05VqMYkUqmJPfaweWnXSlCO0gynDVjquHvQ&usqp=CAU"group-title="⚽ Deportes españa",  la liga bar
-http://pepito.pro:8080/live/34681325053/681325053/305875.ts
+http://computipstv.com:8080/live/tangovip8496/uY6v7E2Vd4yG/144036.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5xrKy9pzIaMZOfFmtJXOsXgQI9KVAJxS0vQ&usqp=CAU"group-title="⚽ Deportes españa",  la liga de campeones
 http://pepito.pro:8080/live/34681325053/681325053/10308.ts
